@@ -1,0 +1,56 @@
+{
+    "pages": [
+        {
+            "0": {
+                "type": "command",
+                "command": "whoami"
+            },
+            "5": {
+                "type": "keyboard_obs",
+                "windowPattern": "window_pattern",
+                "keys": "ctrl+super+alt+shift+6"
+            },
+            "16": {
+                "type": "sound",
+                "duration": "short",
+                "file": "file:///home/baptiste/Documents/hunhunhun.mp3" 
+            },
+            "33": {
+                "type": "keyboard",
+                "keys": "super+shift+c" 
+            },
+            "114": {
+                "type": "sound",
+                "duration": "long",
+                "file": "file:///home/baptiste/Music/Samples/pursuit_extended.opus" 
+            }
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+            
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+
+        }
+    ]
+}

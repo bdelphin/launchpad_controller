@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Launchpad Controller
+Comment=Use your Launchpad device in Linux with Python !
+Exec=/home/baptiste/Projects/launchpad_controller/launchpad_controller.sh
+Icon=/home/baptiste/Projects/launchpad_controller/icon.jpg
+Path=/home/baptiste/Projects/launchpad_controller/
+Terminal=false
+Type=Application
+Categories=Utility;Application;
